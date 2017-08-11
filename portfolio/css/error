@@ -1,0 +1,80 @@
+.aboutme {
+  margin: 2px;
+  border: 1px dotted;
+  height: 200px;
+  width: 43%;
+  background: lightgrey;
+  position: relative;
+  float: left;
+  
+}
+
+.education {
+  margin: 2px;
+  border: 1px dotted;
+  height: 200px;
+  width: 43%;
+  background: grey;
+  position: relative;
+  float: right;
+
+}
+
+.experience {
+  margin: 2px;
+  border: 1px dotted;
+  height: 200px;
+  width: 43%;
+  background: lightgrey;
+  position: relative;
+  float: left;
+
+}
+
+.activities {
+  margin: 2px;
+  border: 1px dotted;
+  height: 200px;
+  width: 43%;
+  background: grey;
+  position: relative;
+  float: right;
+  
+
+}
+
+.hobbies {
+  margin: 2px;
+  border: 1px dotted;
+  height: 200px;
+  width: 43%;
+  background: lightgrey;
+  position: relative;
+  float: left;
+  
+}
+
+
+.skills {
+  margin: 2px;
+  border: 1px dotted;
+  height: 200px;
+  width: 43%;
+  background: lightgrey;
+  position: relative;
+  float: right;
+
+}
+
+
+.lang {
+  margin: 2px;
+  border: 1px dotted;
+  height: 200px;
+  width: 43%;
+  background: lightgrey;
+  position: relative;
+  float: left
+  
+}
+
